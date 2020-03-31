@@ -34,6 +34,7 @@
 			if(finalplant.currentFrame == finalplant.totalFrames){
 				finalplant.replay.addEventListener(MouseEvent.CLICK, restartHandler);
 			}
+			
 		}
 		
 		public function restartHandler(evt:MouseEvent):void {
@@ -65,6 +66,10 @@
 			if (this.hasEventListener(Event.ENTER_FRAME)) {
 				this.removeEventListener(Event.ENTER_FRAME, playReverse);
 			}
+			
+		}
+		function playvid():void{
+			
 		}
 		
 	}

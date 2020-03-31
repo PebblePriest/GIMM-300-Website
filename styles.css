@@ -1,10 +1,17 @@
-h2{
-	text-align:center;
+
+.videos2{
+	margin-left: 0px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	margin-right: 250px;
+
 }
-p{
-	margin: 0px 0px 0px 50px;
-	padding: 50px;
+.scurvy{
+	margin-left: 275px;
+	margin-top: 50px;
+	
 }
+
 .videos{
 	margin-left: 250px;
 	margin-top: 50px;
@@ -12,12 +19,21 @@ p{
 	margin-right: 250px;
 }
 h1{
-	text-align: center;
+	text-align:center;
 }
-.videos2{
-	margin-left: 0px;
-	margin-top: 50px;
-	margin-bottom: 50px;
-	margin-right: 250px;
+p{
+	margin: 0px 0px 0px 50px;
+	
+}
 
+
+h2{
+	text-align:center;
+	margin-right: 20px;
+	margin-left: 20px;
+}
+h2{
+	margin-right: 20px;
+	margin-left: 20px;
+	
 }
